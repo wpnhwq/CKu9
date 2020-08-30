@@ -3,12 +3,12 @@ package com.wpm;
 public class Demo {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		System.out.println("dev");
-		System.out.println("dev");
+		
+		System.out.println("master");//master
+		System.out.println("master");//master
+		System.out.println("master");//master
 		
 		
-		//dev  //dev 
 	}
 
 }
